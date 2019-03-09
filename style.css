@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+	background-color: #D0DDD7;
+	color: #A5AE9E;
+	font-size: 15px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: 0px;
+}
+
+h1,h2{
+	color: #7E846B;
+	font-size: 20px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+a,p{
+	color: #2F2504;
+	font-size: 10px;
+	font-family: 'Sniglet', cursive;
+}
+
+a {
+	color: #2F2504;
+	}
+a:hover {
+	text-decoration: none;
+    color: #594E36;
+}
+
+#banner {
+	background-size: cover; 
+	background-image: url("https://picsum.photos/700/500/?random");
+	border-color: #D0DDD7;
+	padding: 200px;
+
+.card{
+	background-color: #F1DABF;
+	marker-start: 500px;
+	padding: 200px;
+	border-color: 594E36;
+}
+
+#footer{
+	background-color: black;
+	padding: 20px;
+	}
